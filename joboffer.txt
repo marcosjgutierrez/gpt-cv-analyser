@@ -1,0 +1,29 @@
+Senior JavaScript Developer
+
+Job Description:
+We are looking for a Senior JavaScript Developer to join our dynamic team. The ideal candidate will be responsible for designing, developing, testing, and debugging responsive web and mobile applications for the company. 
+
+Responsibilities:
+- Design the front end architecture
+- Develop and enhance our main front end platform - website.
+- Develop new user-facing features.
+- Optimize applications for maximum speed and scalability.
+- Maintain updated knowledge of the development industry and any advancements in technology.
+- Work with a team of developers to design, develop, unit test, and support new features.
+- Strive for high quality and rapid output through the use of agile software development best practices.
+- Perform code reviews and enhance collaboration.
+- Communicate with end users, developers, and product managers to ensure efficient design and delivery.
+
+Requirements:
+- Bachelor's degree in Computer Science or a related field.
+- 5+ years of experience in JavaScript development.
+- Proficiency in front-end development web programming languages such as HTML and CSS, JQuery, and JavaScript.
+- Proficient understanding of client-side scripting and JavaScript frameworks, including jQuery.
+- Experience with modern JavaScript libraries and tooling.
+- Commanding grasp of HTML, CSS, and related web technologies.
+- Strong understanding of responsive web design techniques.
+- Understanding of cross-browser compatibility issues.
+- Strong problem-solving skills.
+- Excellent verbal communication skills.
+- Good interpersonal skills.
+

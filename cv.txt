@@ -1,0 +1,28 @@
+John Smith
+
+JavaScript Developer with a passion for software development and a knack for managing Linux infrastructure. Looking for opportunities to leverage my skills and experience in a challenging role.
+
+Skills:
+- Proficient in JavaScript, HTML, CSS, and jQuery.
+- Experience with modern JavaScript libraries and tooling.
+- Familiarity with responsive web design techniques.
+- Understanding of cross-browser compatibility issues.
+- Strong problem-solving skills.
+- Excellent verbal communication skills.
+- Good interpersonal skills.
+- Proficient in managing Linux infrastructure.
+
+Experience:
+Junior JavaScript Developer, XYZ Company, 2021-Present
+- Developed and enhanced the company's main front end platform.
+- Optimized applications for maximum speed and scalability.
+- Worked with a team of developers to design, develop, unit test, and support new features.
+- Performed code reviews and enhanced collaboration.
+
+Linux System Administrator, ABC Company, 2017-2021
+- Managed and maintained Linux servers.
+- Performed system updates and server configurations.
+- Monitored system performance and troubleshooting issues.
+
+Education:
+Bachelor's Degree in Computer Science, DEF University, 2013-2017
